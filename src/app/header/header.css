@@ -1,0 +1,15 @@
+header {
+  background-color: #1E88E5;        /* Blue theme */
+  color: #ffffff;                   /* White text */
+  padding: 20px 0;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  border-bottom: 4px solid #1565C0; /* Slightly darker border */
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
